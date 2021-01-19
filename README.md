@@ -1,10 +1,10 @@
 ### Hi there 👋
 <img src="https://raw.githubusercontent.com/GabrielHammermeister/GabrielHammermeister/main/me-vector.png" width="400px" height="400px" align="right">
 
-My name Gabriel Hammer 🇧🇷
+My name is Gabriel Hammer, and I'm from Brazil 🇧🇷.
 
-I'm a **front-end student by my own** since 2019, always looking to create good solutions and get my development skills to the next level.
-I'm currently studying HTML5 ,CSS3, Bootstrap and JavaScript.
+I'm a **front-end student by my own** since 2019, always giving my best in every personal project, prioritazing clever solutions for more consize and clear code.
+Currently studying HTML5 ,CSS3, Bootstrap and JavaScript.
 
 💻 My skills are: HTML5, CSS3, JavaScript, Bootstrap, Android Studio, Java, Python.
 
