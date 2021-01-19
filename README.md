@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://raw.githubusercontent.com/lvisentin/lvisentin/main/me-vector.svg" width="400px" height="400px" align="right">
+<img src="https://raw.githubusercontent.com/GabrielHammermeister/GabrielHammermeister/main/me-vector.svg" width="400px" height="400px" align="right">
 
 My name Gabriel Hammer 🇧🇷
 
