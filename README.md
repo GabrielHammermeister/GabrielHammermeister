@@ -14,9 +14,9 @@ Reach me out! 👇🏽
 
 <p align="left">
   
-  <a href="https://www.linkedin.com/in/gabriel-hammer" alt="Linkedin">
+  <a target="_blank" href="https://www.linkedin.com/in/gabriel-hammer" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
   
-  <a href="mailto:gabriel.hammer523@gmail.com" alt="Gmail">
+  <a target="_blank" href="mailto:gabriel.hammer523@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lvise.batista@gmail.com">
 </p>  
