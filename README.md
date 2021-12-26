@@ -20,3 +20,6 @@ Reach me out! 👇🏽
   <a href="mailto:gabriel.hammer523@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lvise.batista@gmail.com">
 </p>  
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHammermeister)](https://github.com/GabrielHammermeister/github-readme-stats)
+
