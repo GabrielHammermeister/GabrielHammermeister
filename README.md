@@ -23,3 +23,4 @@ Reach me out! 👇🏽
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHammermeister)](https://github.com/GabrielHammermeister/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHammermeister&layout=compact)](https://github.com/GabrielHammermeister/github-readme-stats)
