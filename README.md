@@ -4,11 +4,11 @@
 My name is Gabriel Hammer, and I'm from Brazil 🇧🇷.
 
 I'm a **front-end student by my own** since 2019, always giving my best in every personal project, prioritazing clever solutions for more consize and clear code.
-Currently studying HTML5 ,CSS3, Bootstrap and JavaScript.
+Currently studying React and Next at it's finnest.
 
-💻 My skills are: HTML5, CSS3, JavaScript, Bootstrap, Android Studio, Java, Python.
+💻 My skills are: React JS, Next JS, Typescript, Unit Testing, Redux JS, and more.
 
-💼 I'm currently graduating in Computer Engeneering at <a href="https://www.facens.br/home">Facens</a>.
+💼 I graduated in Computer Engeneering at <a href="https://www.facens.br/home">Facens</a>.
 
 Reach me out! 👇🏽
 
